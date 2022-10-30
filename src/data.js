@@ -111,7 +111,7 @@ export const workExperience = [{
 export const education=[
     {
         title: "Bachelor's Computer Science",
-        school: "University of Aizu",
+        school: "Singapore Management University",
         description: "Learned Web Development and AI & ML and awarded bachelor of Computer Science",
         from: "2012 - ",
         to: "2016"
