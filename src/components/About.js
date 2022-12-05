@@ -20,7 +20,14 @@ export default function About() {
             Passionate to code.
           </h3>
           <p className="mb-8 leading-relaxed">
-          I’m a professional full stack developer who has been working in the industry for over 7 years. I deal with complex issues efficiently.
+          Experienced Web Developer adept in all stages of advanced web development.
+          Equipped with a diverse and promising skill-set: JavaScript, React, Vue.js, NodeJS 
+          , TypeScript etc.Able to effectively self-manage during independent projects, as well 
+          as collaborate in a team setting. Solved complex business problems for clients in 
+          various industries including eCommerce, CryptoCurrency, Token, Coin, Real estate,
+          Construction, Healthcare, Banking, SaaS, Game Development and Car 
+          insurance.Ready for an opportunity to use my skills to grow your business and 
+          revenue exponentially.
           </p>
           <div className="flex justify-center">
             <a
